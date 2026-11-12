@@ -1,4 +1,4 @@
-# Muhammad Arham | AI/ML Engineer
+# Mohammad Arham | AI/ML Engineer
 
 <div align="center">
 
