@@ -1,195 +1,278 @@
-# Mohammad Arham | AI/ML Engineer
+ <div align="center">
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,40:090979,75:00D4FF,100:7B2FF7&height=230&section=header&text=MUHAMMAD%20ARHAM&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20INTELLIGENT%20SYSTEMS%20DEVELOPER&descSize=15&descAlignY=58&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Muhammad+Arham+%F0%9F%91%8B;Aspiring+AI%2FML+Engineer;Machine+Learning+%7C+Deep+Learning;NLP+%7C+RAG+%7C+AI+Agents;Building+Intelligent+Real-World+Solutions" alt="Typing SVG" />
-
-### Aspiring AI/ML Engineer | CSE Undergraduate | Python Developer
-
-*Passionate about building intelligent applications using Machine Learning, NLP, and Generative AI.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-MuhammadArham27-181717?style=for-the-badge&logo=github)](https://github.com/MuhammadArham27)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![Profile Views](https://komarev.com/ghpvc/?username=MuhammadArham27&style=for-the-badge&color=00D9FF)](https://github.com/MuhammadArham27)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Final-year Computer Science and Engineering student at **CMR College of Engineering and Technology, Hyderabad**.
-- 🤖 Interested in Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI.
-- 🧠 Exploring NLP, Retrieval-Augmented Generation (RAG), Transformers, and AI Agent workflows.
-- 💻 Experienced in developing Python-based applications and ML solutions.
-- 🔍 Interested in solving real-world problems through intelligent systems.
-- 📈 Continuously improving my Data Structures and Algorithms skills.
-- 🚀 My goal is to become an AI/ML Engineer and build impactful AI-powered products.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css" />
-</p>
-
-### AI / Machine Learning
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-102A43?style=for-the-badge&logo=scikitlearn&logoColor=orange" />
-<img src="https://img.shields.io/badge/Deep%20Learning-412991?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NLP-00897B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Generative%20AI-7B61FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-0052CC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
-
-### Libraries & Frameworks
-<p>
-<img src="https://skillicons.dev/icons?i=flask,tensorflow,pytorch" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
-
-### Tools & Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,postman" />
-</p>
-
-- Data Preprocessing and Feature Engineering
-- Model Training and Evaluation
-- REST API Development
-- Prompt Engineering
-- Recommendation Systems
-- DSA and Problem Solving
-
----
-
-## 🚀 Featured Projects
-
-### 1. ShieldScan – ML-Based Phishing Detection
-
-🔐 A machine-learning-powered security application designed to identify and classify potentially malicious URLs.
-
-- Detects phishing, suspicious, and potentially malicious URLs.
-- Integrates machine learning with rule-based detection.
-- Flask-based backend with REST API support.
-- MongoDB integration for scan history.
-- Includes authentication and automated testing.
-
-**Tech:** Python · Machine Learning · Flask · REST APIs · MongoDB
-
-### 2. BabbaFly – Intelligent Product Analytics
-
-🛍️ An intelligent product analytics system combining machine learning techniques for product insights and recommendations.
-
-- Hybrid recommendation system using content-based and collaborative filtering approaches.
-- Product category prediction using TF-IDF and Logistic Regression.
-- Product price prediction using Linear Regression.
-- Fraud and spam detection capabilities.
-
-**Tech:** Python · Scikit-learn · Pandas · NumPy · Machine Learning
-
-🔗 [View Repository](https://github.com/MuhammadArham27/babbafly-ml-system)
-
-### 3. JARVIS AI – Personal AI Assistant
-
-🤖 An advanced personal AI assistant designed to interact through a web and desktop interface.
-
-- AI-powered conversational interface.
-- Desktop application using Electron.
-- FastAPI backend integration.
-- Voice interaction using speech recognition.
-- Desktop automation and application-launching capabilities.
-
-**Tech:** Python · FastAPI · JavaScript · Electron · AI Agents · Vosk
-
-### 4. Music Recommendation System
-
-🎵 A content-based music recommendation system that recommends similar tracks using text-based feature analysis.
-
-- Uses TF-IDF vectorization.
-- Calculates cosine similarity between music features.
-- Recommends songs based on similarity scores.
-
-**Tech:** Python · Pandas · Scikit-learn · TF-IDF · Cosine Similarity
-
-### 5. Daily Planner & Pomodoro Timer
-
-⏱️ A productivity application combining daily task management with focused study sessions.
-
-- Daily task planning.
-- Pomodoro timer with 25-minute focus and 5-minute break cycles.
-- Simple productivity-focused interface.
-
-🔗 [View Repository](https://github.com/MuhammadArham27/Daily-Planner-and-Pomodoro-Timer)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadArham27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadArham27&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Intelligent+AI+Applications;NLP+%7C+RAG+%7C+Generative+AI;Developing+Personal+AI+Agents;Turning+Ideas+Into+Intelligent+Solutions" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=MuhammadArham27&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/MuhammadArham27">
+<img src="https://img.shields.io/badge/GitHub-MuhammadArham27-00D4FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=MuhammadArham27&style=for-the-badge&color=7B2FF7&label=PROFILE+VISITORS"/>
+
+<br/><br/>
+
+**WELCOME TO MY DIGITAL SPACE**
+
+*Exploring the future of AI, one intelligent project at a time.*
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## `01` // SYSTEM PROFILE
+
+<img align="right" width="145" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+Hi! I'm **Muhammad Arham**, a final-year Computer Science and Engineering student at **CMR College of Engineering and Technology, Hyderabad**.
+
+I'm passionate about developing intelligent applications using Machine Learning, Natural Language Processing and Generative AI.
+
+- 🤖 Exploring AI, ML and intelligent automation.
+- 🧠 Working with NLP, RAG and AI Agent workflows.
+- 🐍 Building Python-based intelligent applications.
+- 🔬 Interested in model development and evaluation.
+- 💻 Practicing Data Structures and Algorithms.
+- 🚀 Focused on building practical, real-world AI solutions.
+
+<br clear="right"/>
+
+---
+
+## `02` // TECHNOLOGY ARSENAL
+
+### Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,c&theme=dark"/>
+</p>
+
+### AI / Machine Learning
+
+<p align="left">
+<img src="https://img.shields.io/badge/Machine%20Learning-0B1D33?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-24134D?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/NLP-102A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-332288?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-5B2C83?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+
+### Libraries & Frameworks
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flask,fastapi&theme=dark"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+### Databases, Tools & Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,electron&theme=dark"/>
+<img src="https://img.shields.io/badge/REST%20APIs-00A896?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vosk-Speech%20Recognition-34495E?style=for-the-badge"/>
+</p>
+
+---
+
+## `03` // FEATURED PROJECTS
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadArham27&theme=tokyo-night&hide_border=true" width="100%" />
+### ⚡ SELECTED INTELLIGENT SYSTEMS
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ ShieldScan
+
+**ML-Based Phishing Detection System**
+
+A machine-learning-powered application for identifying and classifying potentially malicious URLs.
+
+- Phishing and suspicious URL detection.
+- Rule-based and ML detection.
+- Flask backend and REST APIs.
+- MongoDB scan history.
+- Token-based authentication.
+- Automated testing with pytest.
+
+**Stack:** Python · ML · Flask · MongoDB · REST API
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ BabbaFly
+
+**Intelligent Product Analytics**
+
+An ML-based product analytics system combining recommendation and prediction capabilities.
+
+- Hybrid recommendation system.
+- TF-IDF category classification.
+- Logistic Regression.
+- Linear Regression for price prediction.
+- Fraud and spam detection.
+
+**Stack:** Python · Scikit-learn · Pandas · NumPy
+
+[<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D4FF?style=for-the-badge&logo=github&logoColor=black"/>](https://github.com/MuhammadArham27/babbafly-ml-system)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 JARVIS AI
+
+**Personal AI Assistant**
+
+An intelligent personal assistant with web and desktop interfaces.
+
+- AI-powered conversational interaction.
+- FastAPI backend.
+- Electron desktop interface.
+- Local speech recognition using Vosk.
+- Application and website launching tools.
+- Document-listing functionality.
+
+**Stack:** Python · FastAPI · Electron · JavaScript · Vosk · AI Agents
+
+</td>
+<td width="50%" valign="top">
+
+### 🎵 Music Recommendation
+
+**Content-Based Recommendation Engine**
+
+A music recommendation system that identifies similar tracks through text-based feature analysis.
+
+- TF-IDF vectorization.
+- Cosine similarity.
+- Similarity-based song recommendations.
+- Feature-based recommendation logic.
+
+**Stack:** Python · Pandas · Scikit-learn · NLP
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⏱️ Daily Planner & Pomodoro
+
+**Personal Productivity Application**
+
+A productivity project designed to combine task planning and focused work sessions.
+
+- Daily task management.
+- 25-minute focus sessions.
+- 5-minute break sessions.
+- Productivity-oriented workflow.
+
+**Stack:** Python · Application Development
+
+[<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D4FF?style=for-the-badge&logo=github&logoColor=black"/>](https://github.com/MuhammadArham27/Daily-Planner-and-Pomodoro-Timer)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧑‍💼 HireTrust
+
+**Recruitment Technology Project**
+
+A project in your portfolio focused on recruitment-related technology.
+
+**Stack:** Project-specific technologies to be documented.
+
+[<img src="https://img.shields.io/badge/VIEW%20PROJECT-00D4FF?style=for-the-badge&logo=github&logoColor=black"/>](https://github.com/MuhammadArham27/HireTrust)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04` // GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MuhammadArham27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D4FF&icon_color=7B2FF7&text_color=FFFFFF&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadArham27&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00D4FF&text_color=FFFFFF" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=MuhammadArham27&theme=tokyonight&hide_border=true&background=050816&ring=00D4FF&fire=7B2FF7&currStreakLabel=00D4FF"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 Secured a **Top 4 position** in an inter-college B2B competition involving 300+ teams.
-- 🏅 Received a Certificate of Excellence in the **Crack IDSA DSA Quiz**.
-- 📜 Earned Salesforce Agentforce Specialist certification.
-- 📜 Completed YUVA for AI – NASSCOM FutureSkills.
-- 📜 Completed Python Essentials 2 – Cisco Networking Academy.
-- 📚 Completed Generative AI learning modules through Infosys Springboard.
-
----
-
-## 🎯 Currently Learning
-
-- Advanced Machine Learning and Deep Learning.
-- Large Language Models (LLMs).
-- Retrieval-Augmented Generation (RAG).
-- Multi-Agent AI Systems.
-- DSA and competitive problem solving.
-- AI model evaluation and deployment.
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, AI enthusiasts, recruiters, and people working on innovative technology.
+## `05` // CONTRIBUTION MATRIX
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/MuhammadArham27)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+### 🐍 WATCH MY CONTRIBUTIONS COME ALIVE
 
-### 💡 "Building intelligent solutions, one project at a time."
+<img src="https://raw.githubusercontent.com/MuhammadArham27/MuhammadArham27/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
 
-**Thanks for visiting my profile! ⭐**
+</div>
+
+---
+
+## `06` // ACHIEVEMENTS & CERTIFICATIONS
+
+| Achievement | Recognition |
+|---|---|
+| 🏆 Inter-College B2B Competition | Top 4 among 300+ teams |
+| 🥇 Crack IDSA DSA Quiz | Certificate of Excellence |
+| 🤖 Salesforce | Agentforce Specialist |
+| 🧠 NASSCOM FutureSkills | YUVA for AI |
+| 🐍 Cisco Networking Academy | Python Essentials 2 |
+| 📚 Infosys Springboard | Completed Generative AI learning modules |
+
+---
+
+## `07` // CURRENTLY EXPLORING
+
+```text
+[01] Advanced Machine Learning
+[02] Deep Learning & Neural Networks
+[03] Large Language Models (LLMs)
+[04] Retrieval-Augmented Generation (RAG)
+[05] Multi-Agent AI Systems
+[06] AI Model Evaluation & Deployment
+[07] Data Structures & Algorithms
+```
+
+---
+
+## `08` // CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/MuhammadArham27">
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br/><br/>
+
+**Interested in AI, Machine Learning, collaboration and building something innovative?**
+
+Feel free to connect!
+
+<br/>
+
+*BUILD • LEARN • INNOVATE • REPEAT*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:00D4FF,100:020024&height=120&section=footer"/>
 
 </div>
