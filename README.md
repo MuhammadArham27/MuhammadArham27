@@ -25,7 +25,7 @@
 
 <img align="right" width="145" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Hi! I'm **Muhammad Arham**, a final-year Computer Science and Engineering student at **CMR College of Engineering and Technology, Hyderabad**.
+Hi! I'm **Mohammad Arham**, a final-year Computer Science and Engineering student at **CMR College of Engineering and Technology, Hyderabad**.
 
 I'm passionate about developing intelligent applications using Machine Learning, Natural Language Processing and Generative AI.
 
